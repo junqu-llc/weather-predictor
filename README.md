@@ -121,8 +121,5 @@ weather-predictor/
 - Real-time prediction updates
 - Automated retraining pipeline
 
-## License
-MIT License
-
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
